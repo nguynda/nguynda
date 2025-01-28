@@ -1,16 +1,18 @@
-## Hi there 👋
+Welcome to my cozy corner on GitHub! ✨  
+I’m currently learning and working on **websites**, and most importantly... **GAMES**! 🎮🎉  
 
-<!--
-**nguynda/nguynda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ A Little About Me  
+- 🔍 Exploring the endless world of **coding**.  
+- 🎨 Designing and building things that (hopefully) bring joy to others!  
+- 🌈 Dreaming of creating my very own game that everyone can play someday. 
 
-Here are some ideas to get you started:
+> “Code, coffee, and endless creativity – that's my vibe!” ☕💻  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! 🌟  
+Let’s make something amazing together! 🐾✨
+
+## 💬 Connect With Me!
+**Email & Paypal:** [nguyeenxduyanh10@gmail.com](mailto:nguyeenxduyanh10@gmail.com)
+> [YouTube](https://www.youtube.com/@nguynda10) - [Facebook](https://www.facebook.com/nguynda) - [GitHub](https://github.com/nguynda) - **Discord: nguynda**
+
+![My GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyeenxduyanhh&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
