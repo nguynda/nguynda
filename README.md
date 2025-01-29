@@ -15,4 +15,4 @@ Let’s make something amazing together! 🐾✨
 **Email & Paypal:** [nguyeenxduyanh10@gmail.com](mailto:nguyeenxduyanh10@gmail.com)
 > [YouTube](https://www.youtube.com/@nguynda10) - [Facebook](https://www.facebook.com/nguynda) - [GitHub](https://github.com/nguynda) - **Discord: nguynda**
 
-![My GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyeenxduyanhh&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![My GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguynda&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
