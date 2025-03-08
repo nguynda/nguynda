@@ -1,5 +1,4 @@
 Welcome to my cozy corner on GitHub! ✨  
-I’m currently learning and working on **websites**, and most importantly... **GAMES**! 🎮🎉  
 
 ## 🛠️ A Little About Me  
 - 🔍 Exploring the endless world of **coding**.  
